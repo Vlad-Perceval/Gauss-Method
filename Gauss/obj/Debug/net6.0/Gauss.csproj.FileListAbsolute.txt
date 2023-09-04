@@ -1,0 +1,15 @@
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.csproj.AssemblyReference.cache
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.AssemblyInfoInputs.cache
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.AssemblyInfo.cs
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.csproj.CoreCompileInputs.cache
+C:\Users\yfvfy\source\repos\Gauss\Gauss\bin\Debug\net6.0\Gauss.exe
+C:\Users\yfvfy\source\repos\Gauss\Gauss\bin\Debug\net6.0\Gauss.deps.json
+C:\Users\yfvfy\source\repos\Gauss\Gauss\bin\Debug\net6.0\Gauss.runtimeconfig.json
+C:\Users\yfvfy\source\repos\Gauss\Gauss\bin\Debug\net6.0\Gauss.dll
+C:\Users\yfvfy\source\repos\Gauss\Gauss\bin\Debug\net6.0\Gauss.pdb
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.dll
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\refint\Gauss.dll
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.pdb
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\Gauss.genruntimeconfig.cache
+C:\Users\yfvfy\source\repos\Gauss\Gauss\obj\Debug\net6.0\ref\Gauss.dll
